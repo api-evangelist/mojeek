@@ -64,5 +64,27 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Mojeek is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://www.mojeek.com/
+Mojeek is an independent search engine company offering alternative web search services. It provides a Web Search API, Site Search API, and customizable search boxes for developers and businesses. Mojeek emphasizes privacy, community support, and open access to its search technology, with documentation, pricing, and support resources available online.
+
+**Areas:** Search · Privacy · API · Open-source · Community
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.mojeek.com/)
+- [Documentation](https://www.mojeek.com/support/api/)
+- [Getting started](https://www.mojeek.com/support/api/search/quickstart.html)
+- [API reference](https://www.mojeek.com/services/search/web-search-api/)
+- [Support](https://www.mojeek.com/support/)
+- [Blog](https://blog.mojeek.com/)
+- [Terms of service](https://www.mojeek.com/about/terms.html)
+- [Privacy policy](https://www.mojeek.com/about/privacy)
+- [GitHub](https://github.com/Mojeek)
+- [Status](https://status.mojeek.com/)
+
+**APIs profiled:** 2
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/mojeek/](https://apis.io/providers/mojeek/).
